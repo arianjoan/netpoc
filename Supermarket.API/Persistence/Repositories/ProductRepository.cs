@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Supermarket.API.Domain.Models;
-using Supermarket.API.Persistance.Repositories;
+using Supermarket.API.Persistence.Repositories;
 using Supermarket.API.Persistence.Contexts;
 
 namespace Supermarket.API.Persistence.Repositories

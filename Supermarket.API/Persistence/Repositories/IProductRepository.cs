@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Supermarket.API.Domain.Models;
 
-namespace Supermarket.API.Persistance.Repositories
+namespace Supermarket.API.Persistence.Repositories
 {
     public interface IProductRepository
     {
